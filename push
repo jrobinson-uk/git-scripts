@@ -12,4 +12,4 @@ fi
 cd $backup_dir
 git add *
 git commit -am "$message"
-git push
+git push origin master
